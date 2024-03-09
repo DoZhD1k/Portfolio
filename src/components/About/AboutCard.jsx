@@ -15,20 +15,20 @@ function AboutCard() {
               I am currently internship as a data engeneer at Almaty Development Center.
             <br />
             <br />
-              I am currently a student at International University of Information Technologies, studying Software Engineering.
+              I'm a software engineering student at the International University of Information Technologies right now.
             <br />
             <br />
-              Apart from coding, some other activities that I love to do!
+              Apart from coding there are some other activities that I love to do:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Learning New
+              <ImPointRight /> Acquiring New Knowledge
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Playing Games
             </li>
           </ul>
 

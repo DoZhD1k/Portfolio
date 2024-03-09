@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
+              I fell in love with programming and I have learnt at least 
               something, I think… 🤷‍♂️
               <br />
               <br />I am fluent in
@@ -28,7 +28,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interest's is creating products with&nbsp;
+              My field of Interests are creating products with&nbsp;
               <i>
                 <b className="purple">Node.js&nbsp;</b> 
                   and&nbsp;
