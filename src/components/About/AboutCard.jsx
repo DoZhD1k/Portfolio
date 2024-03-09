@@ -12,10 +12,10 @@ function AboutCard() {
             from <span className="purple"> Almaty, Kazakhstan.</span>
             <br />  
             <br />
-              I am currently internship as a data engeneer at Almaty Development Center.
-            <br />
-            <br />
               I am a software engineering student at the International University of Information Technologies right now.
+            <br />
+            <br />
+              I am currently internship as a data engeneer at Almaty Development Center.
             <br />
             <br />
               Apart from coding there are some other activities that I love to do:
