@@ -44,7 +44,7 @@ function Home2() {
               Whenever possible, I also apply my passion for developing products with&nbsp;
               <b className="purple">Java&nbsp;</b>
                and&nbsp;
-               <b className="purple">Kotlin</b> 
+               <b className="purple">Kotlin.</b> 
             </p>
           </Col>
           <Col md={4} className="myAvtar">
