@@ -6,7 +6,13 @@ import {
   SiTrello,
   SiVercel,
   SiWindows11,
+  SiFigma,
+  SiGithub,
+  SiGitlab,
 } from "react-icons/si";
+
+// bootstrap,github />
+
 
 function Toolstack() {
   return (
@@ -25,6 +31,15 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVercel />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFigma />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGithub />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGitlab />
       </Col>
     </Row>
   );

@@ -18,6 +18,9 @@ function AboutCard() {
               I am currently internship as a data engeneer at Almaty Development Center.
             <br />
             <br />
+              2+ years of experience.
+            <br />
+            <br />
               Apart from coding there are some other activities that I love to do:
           </p>
           <ul>

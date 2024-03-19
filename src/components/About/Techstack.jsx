@@ -9,6 +9,8 @@ import {
   DiPython,
   DiGit,
   DiJava,
+  DiDjango,
+  DiBootstrap,
 } from "react-icons/di";
 import {
   SiPrisma,
@@ -16,8 +18,11 @@ import {
   SiNextdotjs,
   SiKotlin,
   SiPostgresql,
+  SiExpress,
+  SiFlask,
 } from "react-icons/si";
 import { TbBrandTypescript, TbBrandTailwind } from "react-icons/tb";
+
 
 function Techstack() {
   return (
@@ -67,6 +72,18 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiExpress />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiDjango />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFlask />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiBootstrap />
       </Col>
     </Row>
   );
