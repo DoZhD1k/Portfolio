@@ -7,6 +7,8 @@ import Snapgram from "../../Assets/Projects/Snapgram.png";
 import Taxi from "../../Assets/Projects/Taxi.jpg";
 import social_media from "../../Assets/Projects/social_media.png";
 import shopper from "../../Assets/Projects/shopper.jpg"
+import EventsKZ from "../../Assets/Projects/EventsKZ.jpg"
+
 
 function Projects() {
   return (
@@ -92,6 +94,17 @@ function Projects() {
               title="Shopper"
               description="An online clothing store offering new collections for everyone. The site offers easy navigation, popular products in the women's clothing category, exclusive offers, and a related products feature for an enhanced user experience. Enjoy shopping with ease and style!"
               ghLink="https://github.com/DoZhD1k/web-final"
+              // demoLink="https://blogs.soumya-jit.tech/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={EventsKZ}
+              isBlog={false}
+              title="EventsKZ"
+              description="Built on Next.js 14, the events application stands as a comprehensive, full-stack platform for managing events. It serves as a hub, spotlighting diverse events taking place globally. Featuring seamless payment processing through Stripe, you have the capability to purchase tickets for any event or even initiate and manage your own events."
+              ghLink="https://github.com/DoZhD1k/EventsKZ"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
