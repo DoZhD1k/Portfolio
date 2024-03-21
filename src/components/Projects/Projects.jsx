@@ -36,7 +36,7 @@ function Projects() {
               isBlog={false}
               title="ChatMG"
               description="Personal Chat Room or Workspace to share resources and hangout with friends build with Next.js 14, React, Socket io, Strapi, TS, Tailwind CSS. Have features which allows user for realtime messaging, image sharing."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="https://github.com/DoZhD1k/EventsKZ"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
@@ -58,7 +58,7 @@ function Projects() {
               isBlog={false}
               title="GamerLink"
               description="My social network for gamers was built with React JS, Appwrite, and Tailwind CSS. Easyto find perfect teammates for online games such as Valorant, CS2, PUBG, Dota2, Overwatch, and more."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              ghLink="https://github.com/DoZhD1k/GameMates"
               // demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
@@ -91,7 +91,7 @@ function Projects() {
               isBlog={false}
               title="Shopper"
               description="An online clothing store offering new collections for everyone. The site offers easy navigation, popular products in the women's clothing category, exclusive offers, and a related products feature for an enhanced user experience. Enjoy shopping with ease and style!"
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              ghLink="https://github.com/DoZhD1k/web-final"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
