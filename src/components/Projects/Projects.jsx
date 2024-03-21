@@ -26,7 +26,7 @@ function Projects() {
               isBlog={false}
               title="Snapgram"
               description="My blog application was built with React JS, Appwrite, and Tailwind CSS. Stunning UI with a native mobile feel. Easy to write blogs, like and saving posts"
-              ghLink="https://github.com/soumyajit4419/Chatify"
+              ghLink="https://github.com/DoZhD1k/Snapgram"
               // demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -36,7 +36,7 @@ function Projects() {
               isBlog={false}
               title="ChatMG"
               description="Personal Chat Room or Workspace to share resources and hangout with friends build with Next.js 14, React, Socket io, Strapi, TS, Tailwind CSS. Have features which allows user for realtime messaging, image sharing."
-              ghLink="https://github.com/DoZhD1k/EventsKZ"
+              ghLink="https://github.com/DoZhD1k/ChatMG"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Nomad Taxi Dashboard"
               description="A comprehensive tool for managing your taxi service was built Next.js, Java, TS, Tailwind CSS, allowing you to efficiently create requests, add managers and drivers, and analyze performance indicators through convenient tables and graphs."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
             />
           </Col>
