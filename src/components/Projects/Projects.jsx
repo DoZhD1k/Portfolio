@@ -6,9 +6,8 @@ import GamerLink from "../../Assets/Projects/GamerLink.jpg";
 import Snapgram from "../../Assets/Projects/Snapgram.png";
 import Taxi from "../../Assets/Projects/Taxi.jpg";
 import social_media from "../../Assets/Projects/social_media.png";
-import shopper from "../../Assets/Projects/shopper.jpg"
-import EventsKZ from "../../Assets/Projects/EventsKZ.jpg"
-
+import shopper from "../../Assets/Projects/shopper.jpg";
+import EventsKZ from "../../Assets/Projects/EventsKZ.jpg";
 
 function Projects() {
   return (
@@ -22,7 +21,7 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Snapgram}
               isBlog={false}
@@ -31,8 +30,8 @@ function Projects() {
               ghLink="https://github.com/DoZhD1k/Snapgram"
               // demoLink="https://chatify-49.web.app/"
             />
-          </Col>
-          <Col md={4} className="project-card">
+          </Col> */}
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={social_media}
               isBlog={false}
@@ -41,7 +40,7 @@ function Projects() {
               ghLink="https://github.com/DoZhD1k/ChatMG"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
-          </Col>
+          </Col> */}
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -98,7 +97,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={EventsKZ}
               isBlog={false}
@@ -107,7 +106,7 @@ function Projects() {
               ghLink="https://github.com/DoZhD1k/EventsKZ"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </Container>

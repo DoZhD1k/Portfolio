@@ -2,11 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
-import {
-  AiFillGithub,
-  AiFillInstagram,
-} from "react-icons/ai";
-import { FaLinkedinIn, } from "react-icons/fa";
+import { AiFillGithub, AiFillInstagram } from "react-icons/ai";
+import { FaLinkedinIn } from "react-icons/fa";
 import { SiWakatime } from "react-icons/si";
 
 function Home2() {
@@ -19,7 +16,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have learnt at least 
+              I fell in love with programming and I have learnt at least
               something, I think… 🤷‍♂️
               <br />
               <br />I am fluent in
@@ -30,21 +27,21 @@ function Home2() {
               <br />
               My field of interests are creating products with&nbsp;
               <i>
-                <b className="purple">Node.js&nbsp;</b> 
-                  and&nbsp;
-                  <b className="purple">Modern Javascript Library and Frameworks</b> and
-                  also in areas related to{" "}
-                  like&nbsp;
-                  <b className="purple">
-                  React.js and Next.js.
-                </b>
+                <b className="purple">Node.js&nbsp;</b>
+                and&nbsp;
+                <b className="purple">
+                  Modern Javascript Library and Frameworks
+                </b>{" "}
+                and also in areas related to like&nbsp;
+                <b className="purple">React.js and Next.js.</b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products with&nbsp;
-              <b className="purple">Java&nbsp;</b>
-               and&nbsp;
-               <b className="purple">Kotlin.</b> 
+              Whenever possible, I also apply my passion for developing products
+              with&nbsp;
+              <b className="purple">Pyhton&nbsp;</b>
+              and&nbsp;
+              <b className="purple">Java.</b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
