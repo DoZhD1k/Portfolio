@@ -3,11 +3,11 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import GamerLink from "../../Assets/Projects/GamerLink.jpg";
-import Snapgram from "../../Assets/Projects/Snapgram.png";
+// import Snapgram from "../../Assets/Projects/Snapgram.png";
 import Taxi from "../../Assets/Projects/Taxi.jpg";
-import social_media from "../../Assets/Projects/social_media.png";
+// import social_media from "../../Assets/Projects/social_media.png";
 import shopper from "../../Assets/Projects/shopper.jpg";
-import EventsKZ from "../../Assets/Projects/EventsKZ.jpg";
+// import EventsKZ from "../../Assets/Projects/EventsKZ.jpg";
 
 function Projects() {
   return (
